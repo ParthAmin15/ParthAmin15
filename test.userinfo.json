@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65a90e5fbc19109ff022c08d"
+  },
+  "userid": "Parth Amin",
+  "userpassword": "12345",
+  "address": "manjalpur vadodara"
+},
+{
+  "_id": {
+    "$oid": "65a90e91bc19109ff022c08e"
+  },
+  "userid": "Ayush kumar",
+  "userpassword": "abc@123",
+  "address": "waghodia vadodara"
+},
+{
+  "_id": {
+    "$oid": "65e40de97715225a7a6b5ff4"
+  },
+  "userid": "bharat",
+  "userpassword": "def@456",
+  "address": "vadodara gujarat"
+},
+{
+  "_id": {
+    "$oid": "65e40e007715225a7a6b5ff6"
+  },
+  "userid": "Diya",
+  "userpassword": "ghi@786",
+  "address": "vadodara gujarat"
+},
+{
+  "_id": {
+    "$oid": "65e40e1b7715225a7a6b5ff8"
+  },
+  "userid": "Nayan",
+  "userpassword": "jyu@649",
+  "address": "vadodara gujarat"
+}]

@@ -1,0 +1,115 @@
+[
+  {
+    "restaurant": "Delicious Eats",
+    "menu": {
+      "starters": [
+        {
+          "name": "Garlic Bread",
+          "price": 5.99,
+          "description": "Toasted baguette slices with garlic butter."
+        },
+        {
+          "name": "Caprese Salad",
+          "price": 7.99,
+          "description": "Fresh tomatoes, mozzarella, and basil drizzled with balsamic glaze."
+        },
+        {
+          "name": "Chicken Wings",
+          "price": 8.99,
+          "description": "Spicy or BBQ chicken wings served with ranch dressing."
+        },
+        {
+          "name": "Bruschetta",
+          "price": 6.99,
+          "description": "Diced tomatoes, fresh basil, and garlic on grilled bread."
+        },
+        {
+          "name": "Spinach Artichoke Dip",
+          "price": 9.99,
+          "description": "Creamy dip with spinach, artichokes, and melted cheese, served with tortilla chips."
+        }
+      ],
+      "main_course": [
+        {
+          "name": "Grilled Salmon",
+          "price": 16.99,
+          "description": "Salmon fillet seasoned and grilled to perfection."
+        },
+        {
+          "name": "Pasta Carbonara",
+          "price": 12.99,
+          "description": "Spaghetti with creamy carbonara sauce, bacon, and parmesan."
+        },
+        {
+          "name": "Vegetable Stir-Fry",
+          "price": 10.99,
+          "description": "Assorted vegetables stir-fried in a savory sauce, served with rice."
+        },
+        {
+          "name": "Steak Fajitas",
+          "price": 19.99,
+          "description": "Grilled steak with bell peppers and onions, served with tortillas and salsa."
+        },
+        {
+          "name": "Chicken Parmesan",
+          "price": 14.99,
+          "description": "Breaded and fried chicken breast topped with marinara sauce and melted cheese, served with spaghetti."
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Classic Mojito",
+          "price": 6.99,
+          "description": "Fresh mint, lime, and soda water with a splash of rum."
+        },
+        {
+          "name": "Berry Blast Smoothie",
+          "price": 5.99,
+          "description": "Mixed berries blended with yogurt and honey."
+        },
+        {
+          "name": "Espresso",
+          "price": 3.99,
+          "description": "Strong and rich Italian espresso."
+        },
+        {
+          "name": "Mango Tango Mocktail",
+          "price": 4.99,
+          "description": "Refreshing mocktail with mango, pineapple, and citrus flavors."
+        },
+        {
+          "name": "Iced Caramel Macchiato",
+          "price": 4.99,
+          "description": "Espresso with vanilla syrup, milk, and caramel drizzle over ice."
+        }
+      ],
+      "other_cuisines": [
+        {
+          "name": "Sushi Platter",
+          "price": 18.99,
+          "description": "Assorted sushi rolls with soy sauce and pickled ginger."
+        },
+        {
+          "name": "Chicken Tikka Masala",
+          "price": 14.99,
+          "description": "Tender chicken pieces in a creamy tomato-based curry sauce, served with naan."
+        },
+        {
+          "name": "Margherita Pizza",
+          "price": 11.99,
+          "description": "Classic pizza with tomato sauce, mozzarella, and fresh basil."
+        },
+        {
+          "name": "Beef Tacos",
+          "price": 13.99,
+          "description": "Soft corn tortillas filled with seasoned beef, lettuce, and cheese, served with salsa."
+        },
+        {
+          "name": "Vegetarian Pad Thai",
+          "price": 12.99,
+          "description": "Stir-fried rice noodles with tofu, bean sprouts, and peanuts in a tangy sauce."
+        }
+      ]
+    }
+  }
+]
